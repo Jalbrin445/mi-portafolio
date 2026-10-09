@@ -11,3 +11,27 @@ ul li a {
     display: block;
     margin: 20px auto;
 }
+
+/* Estilos para tarjetas de proyectos */
+.tarjeta-proyecto {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 18px;
+    margin-bottom: 20px;
+    background-color: #fafafa;
+}
+
+.tarjeta-proyecto h3 {
+    margin-top: 0;
+    color: #1a365d;
+}
+
+.enlaces-proyecto a {
+    color: #0284c7;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.enlaces-proyecto a:hover {
+    text-decoration: underline;
+}
